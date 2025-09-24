@@ -1,2 +1,2 @@
 # KimTay-database
-lab projects using MySQL
+This repo contains lab exercises for KimTay database using MySQL
